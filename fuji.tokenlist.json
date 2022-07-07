@@ -19,35 +19,19 @@
     },
     {
       "chainId": 43113,
-      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+      "address": "0xa51356a16813057c6200B77318526d12Ed3F92B8",
       "decimals": 6,
       "name": "Tether USD",
-      "symbol": "USDT.e",
-      "logoURI": "https://raw.githubusercontent.com/VaporFi/vapordex-tokens/main/tokens/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/VaporFi/vapordex-tokens/main/tokens/0xa51356a16813057c6200B77318526d12Ed3F92B8/logo.png"
     },
     {
       "chainId": 43113,
-      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-      "decimals": 6,
-      "name": "USD Coin",
-      "symbol": "USDC.e",
-      "logoURI": "https://raw.githubusercontent.com/VaporFi/vapordex-tokens/main/tokens/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
-    },
-    {
-      "chainId": 43113,
-      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "address": "0x586bDa282e7187903020DED817e6cC045B89FcAC",
       "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/VaporFi/vapordex-tokens/main/tokens/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
-    },
-    {
-      "chainId": 43113,
-      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-      "decimals": 6,
-      "name": "TetherToken",
-      "symbol": "USDt",
-      "logoURI": "https://raw.githubusercontent.com/VaporFi/vapordex-tokens/main/tokens/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/VaporFi/vapordex-tokens/main/tokens/0x586bDa282e7187903020DED817e6cC045B89FcAC/logo.png"
     }
   ]
 }
